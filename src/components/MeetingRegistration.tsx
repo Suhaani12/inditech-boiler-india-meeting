@@ -138,7 +138,7 @@ export function MeetingRegistration() {
 
     if (topics.length === 0) {
       next.discussionTopics = "Select at least one product";
-    }
+    }       
 
     if (!preferredDate) {
       next.preferredDate = "Select a preferred date";
