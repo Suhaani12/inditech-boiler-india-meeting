@@ -1,5 +1,3 @@
 [build]
-  command = "npm run build"
-
-[[plugins]]
-  package = "@netlify/vite-plugin-tanstack-start"
+  command = "vite build"
+  publish = "dist/client"
