@@ -2,7 +2,7 @@ import { useState } from "react";
 import type { FormEvent } from "react";
 import inditechLogo from "@/assets/inditech-logo.png";
 import boilerIndiaExpo from "@/assets/india-expo.png";
-import valvesBlueprint from "@/assets/valves-blueprint.jpg";
+import valvesBlueprint from "@/assets/valves-blueprint.png";
 import {
   submitMeetingRequest,
   type MeetingRequest,
